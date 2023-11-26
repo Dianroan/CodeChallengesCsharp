@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\StrStr\bin\Debug\net7.0\StrStr.exe
+D:\CodeChallengesCsharp\Easy\StrStr\bin\Debug\net7.0\StrStr.deps.json
+D:\CodeChallengesCsharp\Easy\StrStr\bin\Debug\net7.0\StrStr.runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\StrStr\bin\Debug\net7.0\StrStr.dll
+D:\CodeChallengesCsharp\Easy\StrStr\bin\Debug\net7.0\StrStr.pdb
+D:\CodeChallengesCsharp\Easy\StrStr\obj\Debug\net7.0\StrStr.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\StrStr\obj\Debug\net7.0\StrStr.AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\StrStr\obj\Debug\net7.0\StrStr.AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\StrStr\obj\Debug\net7.0\StrStr.csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\StrStr\obj\Debug\net7.0\StrStr.dll
+D:\CodeChallengesCsharp\Easy\StrStr\obj\Debug\net7.0\refint\StrStr.dll
+D:\CodeChallengesCsharp\Easy\StrStr\obj\Debug\net7.0\StrStr.pdb
+D:\CodeChallengesCsharp\Easy\StrStr\obj\Debug\net7.0\StrStr.genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\StrStr\obj\Debug\net7.0\ref\StrStr.dll
