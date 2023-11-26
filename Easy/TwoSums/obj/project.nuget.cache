@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1j1wep3eabnXPKSe7CqVzJOdnnNOpemkUrV1eSOkizzSwX2NhhiYfVT33jg7U/cs2jA+2eFLjqCijtjL4HthMA==",
+  "dgSpecHash": "XqaKAH+vx2wb3dG3XtA6kqWxfnYmMzrJWXYxRN1o3W//I0deI6sBJFgQzhMF1tCf7vL/epcBEKLMPcTjSPQjuw==",
   "success": true,
-  "projectFilePath": "D:\\Code_Challenges\\TwoSums\\TwoSums.csproj",
+  "projectFilePath": "D:\\CodeChallengesCsharp\\Easy\\TwoSums\\TwoSums.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

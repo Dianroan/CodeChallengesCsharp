@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code_Challenges\\TwoSums\\TwoSums.csproj": {}
+    "D:\\CodeChallengesCsharp\\Easy\\TwoSums\\TwoSums.csproj": {}
   },
   "projects": {
-    "D:\\Code_Challenges\\TwoSums\\TwoSums.csproj": {
+    "D:\\CodeChallengesCsharp\\Easy\\TwoSums\\TwoSums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code_Challenges\\TwoSums\\TwoSums.csproj",
+        "projectUniqueName": "D:\\CodeChallengesCsharp\\Easy\\TwoSums\\TwoSums.csproj",
         "projectName": "TwoSums",
-        "projectPath": "D:\\Code_Challenges\\TwoSums\\TwoSums.csproj",
+        "projectPath": "D:\\CodeChallengesCsharp\\Easy\\TwoSums\\TwoSums.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "D:\\Code_Challenges\\TwoSums\\obj\\",
+        "outputPath": "D:\\CodeChallengesCsharp\\Easy\\TwoSums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
