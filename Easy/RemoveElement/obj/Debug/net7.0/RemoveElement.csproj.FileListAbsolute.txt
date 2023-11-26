@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\RemoveElement\bin\Debug\net7.0\RemoveElement.exe
+D:\CodeChallengesCsharp\Easy\RemoveElement\bin\Debug\net7.0\RemoveElement.deps.json
+D:\CodeChallengesCsharp\Easy\RemoveElement\bin\Debug\net7.0\RemoveElement.runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\RemoveElement\bin\Debug\net7.0\RemoveElement.dll
+D:\CodeChallengesCsharp\Easy\RemoveElement\bin\Debug\net7.0\RemoveElement.pdb
+D:\CodeChallengesCsharp\Easy\RemoveElement\obj\Debug\net7.0\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\RemoveElement\obj\Debug\net7.0\RemoveElement.AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\RemoveElement\obj\Debug\net7.0\RemoveElement.AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\RemoveElement\obj\Debug\net7.0\RemoveElement.csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\RemoveElement\obj\Debug\net7.0\RemoveElement.dll
+D:\CodeChallengesCsharp\Easy\RemoveElement\obj\Debug\net7.0\refint\RemoveElement.dll
+D:\CodeChallengesCsharp\Easy\RemoveElement\obj\Debug\net7.0\RemoveElement.pdb
+D:\CodeChallengesCsharp\Easy\RemoveElement\obj\Debug\net7.0\RemoveElement.genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\RemoveElement\obj\Debug\net7.0\ref\RemoveElement.dll
