@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.exe
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.deps.json
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.dll
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\bin\Debug\net7.0\LongestCommonPrefix.pdb
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.dll
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\obj\Debug\net7.0\refint\LongestCommonPrefix.dll
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.pdb
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\obj\Debug\net7.0\LongestCommonPrefix.genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\LongestCommonPrefix\obj\Debug\net7.0\ref\LongestCommonPrefix.dll
