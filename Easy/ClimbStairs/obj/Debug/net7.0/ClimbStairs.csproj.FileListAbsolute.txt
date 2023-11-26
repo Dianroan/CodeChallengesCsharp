@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\ClimbStairs\obj\Debug\net7.0\ClimbStairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\ClimbStairs\obj\Debug\net7.0\ClimbStairs.AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\ClimbStairs\obj\Debug\net7.0\ClimbStairs.AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\ClimbStairs\obj\Debug\net7.0\ClimbStairs.csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\ClimbStairs\bin\Debug\net7.0\ClimbStairs.exe
+D:\CodeChallengesCsharp\Easy\ClimbStairs\bin\Debug\net7.0\ClimbStairs.deps.json
+D:\CodeChallengesCsharp\Easy\ClimbStairs\bin\Debug\net7.0\ClimbStairs.runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\ClimbStairs\bin\Debug\net7.0\ClimbStairs.dll
+D:\CodeChallengesCsharp\Easy\ClimbStairs\bin\Debug\net7.0\ClimbStairs.pdb
+D:\CodeChallengesCsharp\Easy\ClimbStairs\obj\Debug\net7.0\ClimbStairs.dll
+D:\CodeChallengesCsharp\Easy\ClimbStairs\obj\Debug\net7.0\refint\ClimbStairs.dll
+D:\CodeChallengesCsharp\Easy\ClimbStairs\obj\Debug\net7.0\ClimbStairs.pdb
+D:\CodeChallengesCsharp\Easy\ClimbStairs\obj\Debug\net7.0\ClimbStairs.genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\ClimbStairs\obj\Debug\net7.0\ref\ClimbStairs.dll
