@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.exe
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.deps.json
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.dll
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.pdb
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.dll
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\obj\Debug\net7.0\refint\LengthOfLastWord.dll
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.pdb
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\LengthOfLastWord\obj\Debug\net7.0\ref\LengthOfLastWord.dll

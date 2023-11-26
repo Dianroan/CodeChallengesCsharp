@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\PlusOne\bin\Debug\net7.0\PlusOne.exe
+D:\CodeChallengesCsharp\Easy\PlusOne\bin\Debug\net7.0\PlusOne.deps.json
+D:\CodeChallengesCsharp\Easy\PlusOne\bin\Debug\net7.0\PlusOne.runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\PlusOne\bin\Debug\net7.0\PlusOne.dll
+D:\CodeChallengesCsharp\Easy\PlusOne\bin\Debug\net7.0\PlusOne.pdb
+D:\CodeChallengesCsharp\Easy\PlusOne\obj\Debug\net7.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\PlusOne\obj\Debug\net7.0\PlusOne.AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\PlusOne\obj\Debug\net7.0\PlusOne.AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\PlusOne\obj\Debug\net7.0\PlusOne.csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\PlusOne\obj\Debug\net7.0\PlusOne.dll
+D:\CodeChallengesCsharp\Easy\PlusOne\obj\Debug\net7.0\refint\PlusOne.dll
+D:\CodeChallengesCsharp\Easy\PlusOne\obj\Debug\net7.0\PlusOne.pdb
+D:\CodeChallengesCsharp\Easy\PlusOne\obj\Debug\net7.0\PlusOne.genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\PlusOne\obj\Debug\net7.0\ref\PlusOne.dll
