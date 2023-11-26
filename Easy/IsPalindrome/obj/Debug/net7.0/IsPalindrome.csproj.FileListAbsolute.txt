@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\IsPalindrome\bin\Debug\net7.0\IsPalindrome.exe
+D:\CodeChallengesCsharp\Easy\IsPalindrome\bin\Debug\net7.0\IsPalindrome.deps.json
+D:\CodeChallengesCsharp\Easy\IsPalindrome\bin\Debug\net7.0\IsPalindrome.runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\IsPalindrome\bin\Debug\net7.0\IsPalindrome.dll
+D:\CodeChallengesCsharp\Easy\IsPalindrome\bin\Debug\net7.0\IsPalindrome.pdb
+D:\CodeChallengesCsharp\Easy\IsPalindrome\obj\Debug\net7.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\IsPalindrome\obj\Debug\net7.0\IsPalindrome.AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\IsPalindrome\obj\Debug\net7.0\IsPalindrome.AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\IsPalindrome\obj\Debug\net7.0\IsPalindrome.csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\IsPalindrome\obj\Debug\net7.0\IsPalindrome.dll
+D:\CodeChallengesCsharp\Easy\IsPalindrome\obj\Debug\net7.0\refint\IsPalindrome.dll
+D:\CodeChallengesCsharp\Easy\IsPalindrome\obj\Debug\net7.0\IsPalindrome.pdb
+D:\CodeChallengesCsharp\Easy\IsPalindrome\obj\Debug\net7.0\IsPalindrome.genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\IsPalindrome\obj\Debug\net7.0\ref\IsPalindrome.dll

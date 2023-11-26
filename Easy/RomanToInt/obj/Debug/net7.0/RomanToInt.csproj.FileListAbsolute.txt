@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\RomanToInt\bin\Debug\net7.0\RomanToInt.exe
+D:\CodeChallengesCsharp\Easy\RomanToInt\bin\Debug\net7.0\RomanToInt.deps.json
+D:\CodeChallengesCsharp\Easy\RomanToInt\bin\Debug\net7.0\RomanToInt.runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\RomanToInt\bin\Debug\net7.0\RomanToInt.dll
+D:\CodeChallengesCsharp\Easy\RomanToInt\bin\Debug\net7.0\RomanToInt.pdb
+D:\CodeChallengesCsharp\Easy\RomanToInt\obj\Debug\net7.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\RomanToInt\obj\Debug\net7.0\RomanToInt.AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\RomanToInt\obj\Debug\net7.0\RomanToInt.AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\RomanToInt\obj\Debug\net7.0\RomanToInt.csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\RomanToInt\obj\Debug\net7.0\RomanToInt.dll
+D:\CodeChallengesCsharp\Easy\RomanToInt\obj\Debug\net7.0\refint\RomanToInt.dll
+D:\CodeChallengesCsharp\Easy\RomanToInt\obj\Debug\net7.0\RomanToInt.pdb
+D:\CodeChallengesCsharp\Easy\RomanToInt\obj\Debug\net7.0\RomanToInt.genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\RomanToInt\obj\Debug\net7.0\ref\RomanToInt.dll
