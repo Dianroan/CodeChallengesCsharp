@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).exe
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).deps.json
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).dll
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\bin\Debug\net7.0\Sqrt(x).pdb
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).dll
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\obj\Debug\net7.0\refint\Sqrt(x).dll
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).pdb
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\obj\Debug\net7.0\Sqrt(x).genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\Sqrt(x)\obj\Debug\net7.0\ref\Sqrt(x).dll

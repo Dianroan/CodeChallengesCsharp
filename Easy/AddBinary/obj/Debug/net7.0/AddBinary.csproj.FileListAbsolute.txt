@@ -1,0 +1,14 @@
+D:\CodeChallengesCsharp\Easy\AddBinary\bin\Debug\net7.0\AddBinary.exe
+D:\CodeChallengesCsharp\Easy\AddBinary\bin\Debug\net7.0\AddBinary.deps.json
+D:\CodeChallengesCsharp\Easy\AddBinary\bin\Debug\net7.0\AddBinary.runtimeconfig.json
+D:\CodeChallengesCsharp\Easy\AddBinary\bin\Debug\net7.0\AddBinary.dll
+D:\CodeChallengesCsharp\Easy\AddBinary\bin\Debug\net7.0\AddBinary.pdb
+D:\CodeChallengesCsharp\Easy\AddBinary\obj\Debug\net7.0\AddBinary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChallengesCsharp\Easy\AddBinary\obj\Debug\net7.0\AddBinary.AssemblyInfoInputs.cache
+D:\CodeChallengesCsharp\Easy\AddBinary\obj\Debug\net7.0\AddBinary.AssemblyInfo.cs
+D:\CodeChallengesCsharp\Easy\AddBinary\obj\Debug\net7.0\AddBinary.csproj.CoreCompileInputs.cache
+D:\CodeChallengesCsharp\Easy\AddBinary\obj\Debug\net7.0\AddBinary.dll
+D:\CodeChallengesCsharp\Easy\AddBinary\obj\Debug\net7.0\refint\AddBinary.dll
+D:\CodeChallengesCsharp\Easy\AddBinary\obj\Debug\net7.0\AddBinary.pdb
+D:\CodeChallengesCsharp\Easy\AddBinary\obj\Debug\net7.0\AddBinary.genruntimeconfig.cache
+D:\CodeChallengesCsharp\Easy\AddBinary\obj\Debug\net7.0\ref\AddBinary.dll
